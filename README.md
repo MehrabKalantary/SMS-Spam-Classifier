@@ -36,3 +36,6 @@ Here we choose the best model from the following measures
 ### Deployment
 Deploy our model on streamlit
 
+---
+### Sample
+![s](sample/sample.jpg)

@@ -33,6 +33,8 @@ Here we choose the best model from the following measures
 * Precision
 * F1 score
 
+![models](/sample/models.png)
+
 ### Deployment
 Deploy our model on streamlit
 
